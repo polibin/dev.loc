@@ -1,0 +1,23 @@
+/*menu_top*/
+#menu_top__list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+    .menu_top__item{
+        float: left;
+    }
+        .menu_top__link{
+            display: block;
+            color: #fff;
+            text-align: center;
+            padding: 16px;
+            text-decoration: none;
+        }
+        .menu_top__link:hover{
+            background-color: #111;
+        }
+/*/menu_top*/
+
