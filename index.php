@@ -9,5 +9,11 @@
 	<h1>Dev</h1>
 	<p>Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Sapiente rem pariatur eligendi nulla minus libero et, cupiditate suscipit non eaque.</p>
 	<p>Paragraph.</p>
+	<h2>Unordered list</h2>
+	<ul>
+		<li>Item 1</li>
+		<li>Item 2</li>
+		<li>Item 3</li>
+	</ul>
 </body>
 </html>
